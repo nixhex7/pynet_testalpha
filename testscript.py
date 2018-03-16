@@ -5,4 +5,4 @@ d = c.split(".")
 print (type(d))
 print(d)
 print ".".join(d)
-
+print (a+b)
