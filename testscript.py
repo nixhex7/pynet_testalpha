@@ -7,3 +7,5 @@ print(d)
 print ".".join(d)
 print (a+b)
 print "More Testing"
+for i in range (5):
+    print(i)
